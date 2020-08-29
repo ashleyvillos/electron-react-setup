@@ -1,4 +1,4 @@
-This repository can be used as a starter template for using electron with react. Most of the basic stuffs are already setup.
+This repository can be used as a starter template for using electron with react. Most of the basic stuff are already setup.
 <br>
 <br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
